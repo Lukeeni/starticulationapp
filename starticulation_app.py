@@ -100,6 +100,10 @@ Welcome to Starticulation, a tool for assessing consonant articulation. Starticu
 
 **HOW TO USE**: Fill in each box with the actual sound produced by the child. Target boxes are filled in by default.
 
+Starticulation uses the "Average age of acquisition of English consonants across the world (90-100% criteria)" from Charles Sturt University to determine appropriate age of acquisition.
+
+Starticulation flags sounds as "delayed" when the child has surpassed the year of expected age of acquisition. In other words, /r/ is expected by 5 years, so only a 6 year old child will be considered "delayed", as the child can acquire /r/ whilst they are 5;0 - 5;11.
+
 To report bugs and suggestions, email lakestundun@gmail.com.
 
 Use clinical judgment to verify phonological processes like cluster reduction.
