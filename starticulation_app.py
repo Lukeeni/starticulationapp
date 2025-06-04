@@ -198,8 +198,3 @@ if child_name and age_months:
         st.markdown("<ul>" + ''.join(f"<li>{g}</li>" for g in goal_list) + "</ul>", unsafe_allow_html=True)
         st.download_button("Download SMART Goals (TXT)", "\n".join(goal_list), file_name=f"{child_name}_goals.txt")
 
-[theme]
-backgroundColor="#f8ebd9"
-secondaryBackgroundColor="#bebec1"
-textColor="#000000"
-
