@@ -16,7 +16,7 @@ mastery_ages = {
 target_positions = {
     'tʃ': ['initial', 'medial', 'final'], 'dʒ': ['initial', 'medial', 'final'],
     'ʒ': ['medial'], 'ð': ['initial', 'medial'], 'j': ['initial'], 'h': ['initial'],
-    'w': ['initial', 'medial'], 'r': ['initial', 'medial'], 'ŋ': ['medial', 'final'],
+    'w': ['initial', 'medial'], 'r': ['initial', 'medial', 'final], 'ŋ': ['medial', 'final'],
     'sm': ['initial'], 'sp': ['initial'], 'sw': ['initial'], 'sk': ['initial'], 'sl': ['initial'],
     'sn': ['initial'], 'st': ['initial'], 'bl': ['initial'], 'fl': ['initial'], 'pl': ['initial'],
     'br': ['initial'], 'fr': ['initial'], 'pr': ['initial'], 'kw': ['initial'], 'tw': ['initial'],
